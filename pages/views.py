@@ -55,7 +55,7 @@ def homePost(request):
 
 
 import pickle
-import sklearn # You must perform a pip install.
+# import sklearn # You must perform a pip install.
 import pandas as pd
 
 def results(request, choice, gmat):
